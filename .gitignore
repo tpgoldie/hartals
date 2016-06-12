@@ -4,8 +4,10 @@
 # sbt specific
 .cache
 .history
+.idea
 .lib/
 dist/*
+project/target/
 target/
 lib_managed/
 src_managed/
